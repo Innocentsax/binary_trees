@@ -2,10 +2,7 @@
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMiRPfy3-GF4zdaTt2mA0CUQdsWH_6GwId7Q&usqp=CAU" width="1500" height="350">
 
-This was a partner project in which we learned about the details, advantages,
-and disadvantages of using trees as data structures. We learned about how to
-qualify trees as well as how to traverse them. Throughout the project, we
-implemented binary, binary search, AVL, and Max Binary Heap trees.
+A binary tree is a rooted tree that is also an ordered tree (a.k.a. plane tree) in which every node has at most two children. A rooted tree naturally imparts a notion of levels (distance from the root), thus for every node a notion of children may be defined as the nodes connected to it a level below.
 
 ## Tests :heavy_check_mark:
 
